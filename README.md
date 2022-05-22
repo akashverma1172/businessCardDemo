@@ -1,3 +1,3 @@
 # businessCardDemo
-Demo website for business cards.
+A simple demonstration website for business cards.
 
